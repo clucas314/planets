@@ -6,3 +6,4 @@ This line added to wolfman's copy
 I wish Wolfman would stop editing my stuff
 This is Vlad working from VSCode
 Hello branch
+Hello branch number 2
